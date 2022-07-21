@@ -1,0 +1,9 @@
+\.bin
+\.mvn
+
+.classpath
+.project
+.settings/
+cad-generator.log
+docs/
+target/
